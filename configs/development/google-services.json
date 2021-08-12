@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532421842471",
+    "project_id": "hairlie-dev",
+    "storage_bucket": "hairlie-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532421842471:android:309f4c0a3ba2009c1aa002",
+        "android_client_info": {
+          "package_name": "com.c2c_platform.hairlie.customer.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532421842471-c3co7qejv8l9682iotgjddeqbhi95qme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c2c_platform.hairlie.customer.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "532421842471-9mhtb2nohedc5ckc43se4o9tkcjdat3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZ7tXp8LpVo_s3nwEQphPoQscBAsEIk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532421842471-9mhtb2nohedc5ckc43se4o9tkcjdat3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532421842471-l3vk94ng2qkulumhjksv2u0e3eajm5t3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.c2c-platform.hairlie.customer.dev1",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
